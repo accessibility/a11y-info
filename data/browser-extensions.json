@@ -1,0 +1,279 @@
+{
+	"extensions": [
+        {
+            "name": "WAVE Accessibility Extension",
+            "browsers" : [
+                { "Firefox" : "https://addons.mozilla.org/en-CA/firefox/addon/wave-accessibility-tool/" },
+                { "Chrome" : "https://chrome.google.com/webstore/detail/wave-evaluation-tool/" }
+            ],
+            "subject" : [ "Testing" ]
+        },
+        {
+            "name": "Axe Developer Tools",
+            "browsers" : [
+                { "Firefox" : "https://addons.mozilla.org/en-CA/firefox/addon/axe-devtools/" },
+                { "Chrome" : "https://chrome.google.com/webstore/detail/axe-web-accessibility-tes/" }
+            ],
+            "subject" : [ "Testing" ]
+        },
+        {
+            "name": "LastPass: Free Password Manager",
+            "browsers" : [
+                { "Firefox" : "https://addons.mozilla.org/en-CA/firefox/addon/lastpass-password-manager/" },
+                { "Chrome" : "https://chrome.google.com/webstore/detail/lastpass-free-password-ma/" }
+            ],
+            "subject" : [ "Security", "Cognitive" ]
+        },
+        {
+            "name": "ToggleJS",
+            "browsers" : [
+                { "Firefox" : "https://addons.mozilla.org/en-US/firefox/addon/disable-javascript/" }
+            ],
+            "subject" : [ "Testing" ]
+        },
+        {
+            "name": "Read Aloud: A Text to Speech Voice Reader",
+            "browsers" : [
+                { "Firefox" : "https://addons.mozilla.org/en-CA/firefox/addon/read-aloud/" },
+                { "Chrome" : "https://chrome.google.com/webstore/detail/read-aloud-a-text-to-spee/hdhinadidafjejdhmfkjgnolgimiaplp" }
+            ],
+            "subject" : [ "Low Vision" ]
+        },
+        {
+            "name": "Web Developer",
+            "browsers" : [
+                { "Firefox" : "https://addons.mozilla.org/en-CA/firefox/addon/web-developer/?src=search" }
+            ],
+            "subject" : [ "Testing" ]
+        },
+        {
+            "name": "WCAG Contrast Checker",
+            "browsers" : [
+                { "Firefox" : "https://addons.mozilla.org/en-CA/firefox/addon/wcag-contrast-checker/?src=search" },
+                { "Chrome" : "https://chrome.google.com/webstore/detail/wcag-color-contrast-check/plnahcmalebffmaghcpcmpaciebdhgdf" }
+            ],
+            "subject" : [ "Testing" ]
+        },
+        {
+            "name": "Complex Table Toolbar",
+            "browsers" : [
+                { "Firefox" : "https://www.visionaustralia.org/services/digital-access/resources/complex-data-table-markup-toolbar" }
+            ],
+            "subject" : [ "Testing" ]
+        },
+        {
+            "name": "Lastpass",
+            "browsers" : [
+                { "Firefox" : "https://addons.mozilla.org/en-CA/firefox/addon/lastpass-password-manager/?src=search" }
+            ],
+            "subject" : [ "Security", "Cognitive" ]
+        },
+        {
+            "name": "CDTS Version Finder",
+            "browsers" : [
+                { "Firefox" : "http://nordburg.ca/ext/home.php" }
+            ],
+            "subject" : [ "Testing" ]
+        },
+        {
+            "name": "SlashOn BR Tag Finder",
+            "browsers" : [
+                { "Firefox" : "http://nordburg.ca/ext/home.php" }
+            ],
+            "subject" : [ "Testing" ]
+        },
+        {
+            "name": "WET Widget Version Finder",
+            "browsers" : [
+                { "Firefox" : "http://nordburg.ca/ext/home.php" }
+            ],
+            "subject" : [ "Testing" ]
+        },
+        {
+            "name": "Nordburg Assessment Helper",
+            "browsers" : [
+                { "Firefox" : "http://nordburg.ca/ext/home.php" }
+            ],
+            "subject" : [ "Testing" ]
+        },
+        {
+            "name": "Nordburg Stopwatch",
+            "browsers" : [
+                { "Firefox" : "http://nordburg.ca/ext/home.php" }
+            ],
+            "subject" : [ "Testing" ]
+        },
+        {
+            "name": "Nordburg Forms Mode Simulator",
+            "browsers" : [
+                { "Firefox" : "http://nordburg.ca/ext/home.php" }
+            ],
+            "subject" : [ "Testing" ]
+        },
+        {
+            "name": "SlashOn Black and White Filter",
+            "browsers" : [
+                { "Firefox" : "http://nordburg.ca/ext/home.php" }
+            ],
+            "subject" : [ "Testing" ]
+        },
+        {
+            "name": "Nordburg Focus Revealer",
+            "browsers" : [
+                { "Firefox" : "http://nordburg.ca/ext/home.php" }
+            ],
+            "subject" : [ "Testing" ]
+        },
+        {
+            "name": "Nordburg Validator",
+            "browsers" : [
+                { "Firefox" : "http://nordburg.ca/ext/home.php" }
+            ],
+            "subject" : [ "Testing" ]
+        },
+        {
+            "name": "YesScript",
+            "browsers" : [
+                { "Firefox" : "https://dillinger.io/" }
+            ],
+            "subject" : [ "Testing" ]
+        },
+        {
+            "name": "Tab Unloader",
+            "browsers" : [
+                { "Firefox" : "https://addons.mozilla.org/en-CA/firefox/addon/tab-unloader-we/?src=search" }
+            ],
+            "subject" : [ "Testing" ]
+        },
+        {
+            "name": "Tab Session Manager",
+            "browsers" : [
+                { "Firefox" : "https://addons.mozilla.org/en-CA/firefox/addon/tab-session-manager/?src=search" }
+            ],
+            "subject" : [ "Testing" ]
+        },
+        {
+            "name": "Accessibility Insights for Web",
+            "browsers" : [
+                { "Firefox" : "" },
+                { "Chrome" : "https://chrome.google.com/webstore/detail/accessibility-insights-fo/pbjjkligggfmakdaogkfomddhfmpjeni" }
+            ],
+            "subject" : [ "Testing" ]
+        },
+        {
+            "name": "Accessibility Developer Tools",
+            "browsers" : [
+                { "Firefox" : "" },
+                { "Chrome" : "https://chrome.google.com/webstore/detail/accessibility-insights-fo/pbjjkligggfmakdaogkfomddhfmpjeni" }
+            ],
+            "subject" : [ "Testing" ]
+        },
+        {
+            "name": "Zoom for Google Chrome",
+            "browsers" : [
+                { "Firefox" : "" },
+                { "Chrome" : "https://chrome.google.com/webstore/detail/zoom-for-google-chrome/lajondecmobodlejlcjllhojikagldgd" }
+            ],
+            "subject" : [ "Low Vision" ]
+        },
+        {
+            "name": "Night Shift",
+            "browsers" : [
+                { "Firefox" : "" },
+                { "Chrome" : "https://chrome.google.com/webstore/detail/night-shift/fpnlpehjhijpamloppfjljenemeokfio" }
+            ],
+            "subject" : [ "Low Vision" ]
+        },
+        {
+            "name": "Funkify – Disability Simulator",
+            "browsers" : [
+                { "Firefox" : "" },
+                { "Chrome" : "https://chrome.google.com/webstore/detail/funkify-%E2%80%93-disability-simu/ojcijjdchelkddboickefhnbdpeajdjg" }
+            ],
+            "subject" : [ "Testing" ]
+        },
+        {
+            "name": "HTML5 Outliner",
+            "browsers" : [
+                { "Firefox" : "" },
+                { "Chrome" : "https://chrome.google.com/webstore/detail/html5-outliner/afoibpobokebhgfnknfndkgemglggomo" }
+            ],
+            "subject" : [ "Testing" ]
+        },
+        {
+            "name": "Raindrop.io",
+            "browsers" : [
+                { "Firefox" : "" },
+                { "Chrome" : "https://chrome.google.com/webstore/detail/raindropio/ldgfbffkinooeloadekpmfoklnobpien" }
+            ],
+            "subject" : [ "Security" ]
+        },
+        {
+            "name": "Reader View",
+            "browsers" : [
+                { "Firefox" : "" },
+                { "Chrome" : "https://chrome.google.com/webstore/detail/reader-view/ecabifbgmdmgdllomnfinbmaellmclnh" }
+            ],
+            "subject" : [ "Low Vision", "Testing" ]
+        },
+        {
+            "name": "Full Page Screen Capture",
+            "browsers" : [
+                { "Firefox" : "" },
+                { "Chrome" : "https://chrome.google.com/webstore/detail/full-page-screen-capture/fdpohaocaechififmbbbbbknoalclacl" }
+            ],
+            "subject" : [ "Testing" ]
+        },
+        {
+            "name": "Chrome Accessible Extensions",
+            "browsers" : [
+                { "Firefox" : "" },
+                { "Chrome" : "https://chrome.google.com/webstore/category/collection/3p_accessibility_extensions" }
+            ],
+            "subject" : [ "Testing" ]
+        },
+        {
+            "name": "HTML Validator",
+            "browsers" : [
+                { "Firefox" : "https://addons.mozilla.org/fr/firefox/addon/html-validator/" }
+            ],
+            "subject" : [ "Testing" ]
+        },
+        {
+            "name": "Free Backlink Checker by LRT",
+            "browsers" : [
+                { "Firefox" : "https://addons.mozilla.org/fr/firefox/addon/free-backlink-checker-by-lrt/" }
+            ],
+            "subject" : [ "Testing" ]
+        },
+        {
+            "name": "Empty Cache Button",
+            "browsers" : [
+                { "Firefox" : "https://addons.mozilla.org/en-CA/firefox/addon/empty-cache-button/?src=search" }
+            ],
+            "subject" : [ "Testing" ]
+        },
+        {
+            "name": "Mind the Time",
+            "browsers" : [
+                { "Firefox" : "https://addons.mozilla.org/en-CA/firefox/addon/mind-the-time/?src=search" }
+            ],
+            "subject" : [ "Testing" ]
+        },
+        {
+            "name": "AdBlocker Plus",
+            "browsers" : [
+                { "Firefox" : "https://addons.mozilla.org/en-CA/firefox/addon/adblock-plus/?src=search" }
+            ],
+            "subject" : [ "Security" ]
+        },
+		{
+            "name": "Lighthouse",
+            "browsers" : [
+                { "Firefox" : "" },
+                { "Chrome" : "https://developers.google.com/web/tools/lighthouse/" }
+            ],
+            "subject" : [ "Testing" ]
+        }
+    ]
+}
